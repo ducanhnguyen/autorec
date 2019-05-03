@@ -25,9 +25,9 @@ where R_ji = (user i, movie i), j = 1..m (m is the number of users)
 
 r^(i): the i-th observation
 
-h(r^(i), theta) is the construction function
+h(r^(i), theta) is the construction function of the i-th observation
 
-theta is parameters in the neural network (i.e., kernels W and V and biases).
+theta is a set of parameters in the neural network (i.e., kernel W, kernel V, biases).
 
 # Experiments
 
