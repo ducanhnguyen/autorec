@@ -5,6 +5,8 @@ There are two versions of autorec: item-based autorec (i-autorec) and user-based
 
 Paper: http://users.cecs.anu.edu.au/~akmenon/papers/autorec/autorec-paper.pdf
 
+Dataset: https://grouplens.org/datasets/movielens/
+
 ### Architecture of I-AutoRec
 
 I-AutoRec has one hidden layer. The input and the output is the same.
