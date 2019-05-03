@@ -31,5 +31,9 @@ theta is parameters in the neural network (i.e., kernels W and V and biases).
 
 The experiment is performed on 1M dataset. I used the same configurations as the original paper: hidden units = 500, use L2-regularization, 90% train, 10% test, activation function = identity, sigmoid.
 
+The best training loss = 0.7714
+
+The best validation loss = 1.1685
+
 <img src="https://github.com/ducanhnguyen/autorec/blob/master/img/iautorec.png" width="550">
 
